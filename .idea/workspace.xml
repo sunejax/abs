@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3a4b888-446d-4fa7-b2b9-3f6d8ddf3c3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/getQuantity/src/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getQuantity/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/apis/rest/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/apis/rest/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/apis/rest/store/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/apis/rest/store/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/config/tier/development.json" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/config/tier/development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/dal/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/dal/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/dal/store/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/dal/store/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/initiate/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/initiate/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addToCart/src/modules/addtocart/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/addToCart/src/modules/addtocart/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/apis/rest/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/apis/rest/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/apis/rest/store/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/apis/rest/store/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/apis/rest/store/store.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/apis/rest/store/store.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/config/tier/development.json" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/config/tier/development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/dal/cart/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/dal/cart/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/dal/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/dal/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/dal/store/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/dal/store/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/initiate/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/initiate/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/models/contracts/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/models/contracts/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/modules/addtocart/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/modules/addtocart/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/modules/allocate/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/modules/allocate/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/modules/getquantity/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/modules/getquantity/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allocate/src/orm/aerospike/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/allocate/src/orm/aerospike/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/apis/rest/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/apis/rest/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/apis/rest/store/controller.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/apis/rest/store/controller.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/apis/rest/store/store.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/apis/rest/store/store.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/config/tier/development.json" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/config/tier/development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/dal/cart/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/dal/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/dal/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/dal/store/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/dal/store/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/initiate/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/initiate/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/models/contracts/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/models/contracts/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/modules/addtocart/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/modules/addtocart/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/modules/allocate/errors.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/modules/allocate/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/modules/getquantity/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/getQuantity/src/modules/getquantity/index.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/orm/aerospike/allocate.lua" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/orm/aerospike/index.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getQuantity/src/orm/index.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/getQuantity" />
+  </component>
+  <component name="ProjectId" id="1i7euJW6lhMBtFRwjDS20gRsoNb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

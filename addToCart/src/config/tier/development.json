@@ -1,0 +1,43 @@
+{
+	"server": {
+		"http": {
+			"port": ":8081"
+		}
+	},
+	"dataStores": {
+		"store": {
+			"auth": false,
+			"useTLS": false,
+			"database": "store",
+			"hosts": [
+				"mongo"
+			],
+			"user": "",
+			"password": "",
+			"authSource": "",
+			"collections": {
+				"product": "product",
+				"user": "user"
+			}
+		},
+		"cart": {
+			"database": "test",
+			"user": "",
+			"password": "",
+			"hosts": [
+				"aerospike"
+			],
+			"port": 3000,
+			"collections": {
+				"cart": {
+					"collection": "cart",
+					"moduleName": "allocate",
+					"functionName": "allocate"
+				}
+			}
+		}
+	},
+	"product": {
+		"inventory": 10
+	}
+}

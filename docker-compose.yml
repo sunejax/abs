@@ -1,0 +1,49 @@
+version: "3.8"
+services:
+  mongo:
+    networks:
+      test:
+    image: mongo
+    ports:
+      - "27017:27017"
+  aerospike:
+    networks:
+      test:
+    image: aerospike
+    ports:
+      - "3000:3000"
+  addtocart:
+    networks:
+      test:
+    build: ./addToCart/src/.
+    ports:
+      - "8081:8081"
+  allocate:
+    networks:
+      test:
+    build: ./allocate/src/.
+    ports:
+      - "8082:8082"
+    links:
+      - mongo
+      - aerospike
+  getquantity:
+    networks:
+      test:
+    build: ./getQuantity/src/.
+    ports:
+      - "8083:8083"
+    links:
+      - mongo
+  start_dependencies:
+    networks:
+      test:
+    image: dadarek/wait-for-dependencies
+    depends_on:
+      - mongo
+      - aerospike
+    command: mongo:27017 aerospike:3000
+networks:
+  test:
+    driver: bridge
+
